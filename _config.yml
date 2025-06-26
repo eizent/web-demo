@@ -1,11 +1,9 @@
-title: Minima Demo Site
-author:
-  name: GitHub User
+title: "Tessa's Demo Site"
+author: 
+  name: Tessa 
   email: your-email@domain.com
 description: >
-  Write an awesome description for your new site here. You can edit this
-  line in _config.yml. It will appear in your document head meta (for
-  Google search results) and in your feed.xml site description.
+  Tessa's demo site for static site practice
 
 minima:
   date_format: "%b %-d, %Y"
@@ -13,10 +11,10 @@ minima:
     - { icon: "github", title: "Minima Theme repository at GitHub", url: "https://github.com/jekyll/minima" }
     - { icon: "x-twitter", title: "Jekyll profile at X (formerly Twitter)", url: "https://x.com/jekyllrb" }
   show_excerpts: true
-  skin: auto # Options: auto, classic, dark, solarized, solarized-light, solarized-dark
+  skin: solarized-dark # Options: auto, classic, dark, solarized, solarized-light, solarized-dark
 
 # Build settings
-baseurl: /minima-demo
+baseurl: /web-demo
 remote_theme: jekyll/minima
 plugins:
   - jekyll-feed
